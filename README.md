@@ -1,12 +1,14 @@
-## Hi there 👋
+# Hi, I'm Timothy Immanuel
 
 Maintainer/contributor around agent tooling and multi-channel assistant workflows.
 I focus on practical engineering: issue reproduction, real behavior testing, and shipping fixes that survive production traffic.
+Recent work includes MiniRouter routing/eval infrastructure and competition tooling.
 
 ## 🚀 Start Here
 
-- <img src="https://github.com/touchpilot.png" width="20" align="center"/> **[touchpilot/touchpilot](https://github.com/touchpilot/touchpilot)** - Local-first Android AI agent for safe on-device control
+- <img src="https://github.com/tmimmanuel.png" width="20" align="center"/> **[tmimmanuel/touchpilot](https://github.com/tmimmanuel/touchpilot)** - Automation and control workflow experiments
 - <img src="https://github.com/openclaw.png" width="20" align="center"/> **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Personal AI assistant across CLI, WebUI, Slack, Telegram, Discord, Matrix
+- <img src="https://github.com/mini-router.png" width="20" align="center"/> **[mini-router/minirouter](https://github.com/mini-router/minirouter)** - Gittensor miner workspace for MiniRouter: routing trainer/eval code, benchmarks, submissions, and the web competition site
 - <img src="https://github.com/infiniflow.png" width="20" align="center"/> **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** - RAG engine: Go driver implementations and provider integrations
 - <img src="https://github.com/langgenius.png" width="20" align="center"/> **[langgenius/dify](https://github.com/langgenius/dify)** - LLMOps platform: EnumText type-tightening sweep across the API
 
@@ -42,6 +44,7 @@ I focus on practical engineering: issue reproduction, real behavior testing, and
 
 ### Crypto & Subnet Tooling
 
+- <img src="https://github.com/mini-router.png" width="20" align="center"/> **[mini-router/minirouter](https://github.com/mini-router/minirouter)** - Gittensor miner workspace for router training, evaluation, submissions, and competition operations
 - <img src="https://github.com/entrius.png" width="20" align="center"/> **[entrius/gittensor](https://github.com/entrius/gittensor)** - Stale miner cleanup when hotkey re-links to a new GitHub account
 - <img src="https://github.com/entrius.png" width="20" align="center"/> **[entrius/gittensor-ui](https://github.com/entrius/gittensor-ui)** - Leaderboard sidebar dedupe, README link fixes, shared formatting helpers
 - <img src="https://github.com/latent-to.png" width="20" align="center"/> **[latent-to/btcli](https://github.com/latent-to/btcli)** - Extensions framework for custom `btcli` plugins
@@ -69,7 +72,7 @@ I focus on practical engineering: issue reproduction, real behavior testing, and
 ![Slack](https://img.shields.io/badge/Slack-Behavior%20Testing-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-E2E%20Validation-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![WebUI](https://img.shields.io/badge/WebUI-Reply%20Flow%20Checks-2563EB?style=for-the-badge)
-![GitHub PRs](https://img.shields.io/badge/GitHub-PR%20Cleanup%20%26%20Review-181717?style=for-the-badge&logo=github&logoColor=white)
+![MiniRouter](https://img.shields.io/badge/MiniRouter-Routing%20%26%20Eval-111827?style=for-the-badge)
 
 ---
 
