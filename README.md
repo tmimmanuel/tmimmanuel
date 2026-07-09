@@ -6,9 +6,9 @@ Recent work includes MiniRouter routing/eval infrastructure and competition tool
 
 ## 🚀 Start Here
 
-- <img src="https://github.com/tmimmanuel.png" width="20" align="center"/> **[tmimmanuel/touchpilot](https://github.com/tmimmanuel/touchpilot)** - Automation and control workflow experiments
-- <img src="https://github.com/openclaw.png" width="20" align="center"/> **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Personal AI assistant across CLI, WebUI, Slack, Telegram, Discord, Matrix
 - <img src="https://github.com/mini-router.png" width="20" align="center"/> **[mini-router/minirouter](https://github.com/mini-router/minirouter)** - Gittensor miner workspace for MiniRouter: routing trainer/eval code, benchmarks, submissions, and the web competition site
+- <img src="https://github.com/touchpilot.png" width="20" align="center"/> **[touchpilot/touchpilot](https://github.com/touchpilot/touchpilot)** - Automation and control workflow experiments
+- <img src="https://github.com/openclaw.png" width="20" align="center"/> **[openclaw/openclaw](https://github.com/openclaw/openclaw)** - Personal AI assistant across CLI, WebUI, Slack, Telegram, Discord, Matrix
 - <img src="https://github.com/infiniflow.png" width="20" align="center"/> **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** - RAG engine: Go driver implementations and provider integrations
 - <img src="https://github.com/langgenius.png" width="20" align="center"/> **[langgenius/dify](https://github.com/langgenius/dify)** - LLMOps platform: EnumText type-tightening sweep across the API
 
