@@ -1,4 +1,4 @@
-# Hi, I'm Timothy Immanuel
+# Hi, I'm Tima
 
 Maintainer/contributor around agent tooling and multi-channel assistant workflows.
 I focus on practical engineering: issue reproduction, real behavior testing, and shipping fixes that survive production traffic.
